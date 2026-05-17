@@ -1,0 +1,21 @@
+<nav class="navbar navbar-expand-lg navbar-dark bg-dark">
+  <a class="navbar-brand" href="#">iSecure</a>
+
+  <div class="collapse navbar-collapse">
+    <ul class="navbar-nav mr-auto">
+
+      <li class="nav-item active">
+        <a class="nav-link" href="/loginsystem">Home</a>
+      </li>
+
+      <li class="nav-item active">
+        <a class="nav-link" href="/loginsystem/login.php">Login</a>
+      </li>
+
+      <li class="nav-item active">
+        <a class="nav-link" href="/loginsystem/index.php">Signup</a>
+      </li>
+
+    </ul>
+  </div>
+</nav>
